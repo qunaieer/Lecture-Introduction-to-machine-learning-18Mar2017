@@ -1,2 +1,9 @@
-# Lecture-Introduction-to-machine-learning-18Mar2017
-ملفات وأكواد متعلقة بالدورة
+# مراجعات مفيدة قبل حضور المحاضرة
+مراجعة المفاهيم الضرورية في الجبر الخطي في الملف
+Linear Algebra Review.pdf
+
+مراجعة لمفاهيم رياضية مهمّة في الملف
+math_review.ipynb
+
+لتعليمات تشغيل الملف
+Running Code.pdf
